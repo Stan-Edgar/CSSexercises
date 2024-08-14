@@ -1,0 +1,20 @@
+.Odd {
+    background-color: rgb(255, 105, 180);
+    font-family: Verdana;
+}
+
+#Dos {
+    color: blue;
+    font-size: 36px;
+}
+
+.Odd.Tres {
+    font-size: 24px;
+    font-family: DejaVu Sans;
+}
+
+#Cuatro {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #90EE90;
+}
