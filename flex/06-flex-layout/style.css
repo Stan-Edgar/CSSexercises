@@ -75,3 +75,10 @@ margin-top: 10%;
   margin-top: auto;  
 }
 
+body {
+
+  display: flex;
+  flex-wrap: wrap;
+
+  flex-direction: column;
+}
